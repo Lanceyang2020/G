@@ -12,7 +12,7 @@ public class HelloController {
     public String getHello(){
         int s = 1;
 
-        return "+ hello";
+        return "asd hello";
     }
 
 
